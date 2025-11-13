@@ -1,0 +1,16 @@
+@import "./globals.css";
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(140deg, rgb(36, 36, 223), rgb(7, 7, 166));
+}
+.calculator {
+  background: var(--panel);
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  width: 280px;
+}
