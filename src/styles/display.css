@@ -11,4 +11,5 @@
   padding: 5px 10px; 
   background-color: rgb(53, 53, 53);
   width: 60px;
+  color: var(--text);
 }
